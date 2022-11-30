@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/qcurso/static/css/main.d0682297.css",
+    "main.js": "/qcurso/static/js/main.83c7942e.js",
+    "static/media/foco.png": "/qcurso/static/media/foco.d423b3be8ab947d9d367.png",
+    "static/media/ladoD.jpg": "/qcurso/static/media/ladoD.68ae72c8e2c98fb88ece.jpg",
+    "static/media/logoBranca_trans.png": "/qcurso/static/media/logoBranca_trans.71c24e3bc9c81d5483c7.png",
+    "static/media/tras.jpg": "/qcurso/static/media/tras.ae1769a453715b151a4b.jpg",
+    "static/media/ladoE.jpg": "/qcurso/static/media/ladoE.86f6b0cbe464157a08b9.jpg",
+    "static/media/frente.jpg": "/qcurso/static/media/frente.85067bbeba6a3b4b357d.jpg",
+    "static/media/cima.jpg": "/qcurso/static/media/cima.96f974b713657911b1a2.jpg",
+    "static/media/baixo.jpg": "/qcurso/static/media/baixo.fe3cf2f232f93212c266.jpg",
+    "index.html": "/qcurso/index.html",
+    "main.d0682297.css.map": "/qcurso/static/css/main.d0682297.css.map",
+    "main.83c7942e.js.map": "/qcurso/static/js/main.83c7942e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0682297.css",
+    "static/js/main.83c7942e.js"
+  ]
+}
